@@ -1,4 +1,4 @@
-# El Guapo del Puerto 🍽️
+# La Bristol 🍽️
 
 Landing page for a stylish waterfront restaurant.
 
@@ -21,7 +21,7 @@ The layout adjusts to different screen sizes for an optimal user experience on m
 [🔗 View Website](https://github.com/guido-scotti/El-Guapo-Del-Puerto)  
 
 ## 📁 Project Structure
-📁 proyect-landing/
+📁 labristol/
 ├── index.html
 ├── .gitignore
 ├── CSS/
@@ -38,4 +38,4 @@ The layout adjusts to different screen sizes for an optimal user experience on m
 To run this project locally, just clone the repository and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/guido-scotti/El-Guapo-Del-Puerto.git
+git clone https://github.com/guido-scotti/labristol.git
