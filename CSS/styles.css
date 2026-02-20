@@ -2,7 +2,7 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: 'Libre Baskerville', serif;
-  background-color: #fffefc;
+  background-color: #e6d2b9;
 }
 
 /* NAVBAR*/ 
@@ -10,7 +10,7 @@ body, html {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #5e3500; 
+  background-color: #9e8968; 
   display: flex;
   align-items: center; 
   justify-content: space-between; 
@@ -38,15 +38,15 @@ body, html {
 
 .nav-links a {
   text-decoration: none;
-  color: #fff;
+  color: #583104;
   font-weight: bold;
   padding: 5px 10px;
   transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-  color: #000;
-  background-color: #fff;
+  color: #fff;
+  background-color: #5a3c1a;
   border-radius: 5px;
 }
 
@@ -65,7 +65,7 @@ body, html {
 
 /* CUADRO CON TITULO PRINCIPAL */
     .hero-overlay {
-      background-color: rgba(92, 50, 11, 0.637);
+      background-color: rgba(22, 13, 5, 0.637);
       padding: 40px;
       text-align: center;
       border-radius: 10px;
@@ -75,7 +75,7 @@ body, html {
     .hero h1 {
     font-size: 3rem;
     margin-bottom: 10px;
-    color: #ffffff;
+    color: #9e8968;
     }
 
     .hero h3 {
@@ -104,7 +104,7 @@ body, html {
 /* ABOUT US SECCION */
 .nosotros-section{
     text-align: center;
-    background-color: #fffefc;
+    background-color: #e6d2b9;
     scroll-margin-top: 175px;
 }
 
@@ -112,7 +112,7 @@ body, html {
     margin: 90px auto 20px;
     font-size: 50px;
     font-family: 'Playfair Display', serif;
-    color: #000000;
+    color: #5e3500;
     }
 
     .nosotros-section h3 {
@@ -129,7 +129,7 @@ body, html {
         font-size: 1.0625rem;
         font-weight: 600;
         font-family: 'Libre Baskerville', serif;
-        color: #666666;
+        color: #000;
         text-align: left;
     }
 
@@ -137,7 +137,7 @@ body, html {
 .menu-section {
   text-align: center;
   padding: 60px 20px;
-  background-color: #fffefc;
+  background-color: #e6d2b9;
   scroll-margin-top: 110px;
 }
 
@@ -187,7 +187,7 @@ body, html {
 .reseñas-section {
   text-align: center;
   padding: 60px 20px;
-  background-color: #fffefc;
+  background-color: #e6d2b9;
   margin-bottom: 60px;
   scroll-margin-top: 110px;
 }
@@ -210,7 +210,7 @@ body, html {
 
     .reseñas{
       width: 700px;
-      background-color:#2e271d;
+      background-color:#5e3500;
       margin-left: auto;
       margin-right: auto;
       padding: 20px;
@@ -241,7 +241,7 @@ body, html {
 /* SECCION DE CONTACTO */
 .contacto{
     text-align: center;
-    background-color: #5e3500;
+    background-color: #9e8968;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -305,7 +305,7 @@ body, html {
   font-size: smaller;
   padding-bottom: 20px;
   padding-top: 20px;
-  background-color: #5e3500;
+  background-color: #9e8968;
 }
 
 /* CARRUSEL DE FOTOS */
